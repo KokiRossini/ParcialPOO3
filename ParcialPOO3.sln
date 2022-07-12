@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialPOO3.Consola", "ParcialPOO3.Consola\ParcialPOO3.Consola.csproj", "{4431B94D-469D-4647-98D2-C8B119E457B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialPOO3.Entidades", "ParcialPOO3.Entidades\ParcialPOO3.Entidades.csproj", "{28F56E44-E6CF-4E5D-A9E0-5D8204C21638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4431B94D-469D-4647-98D2-C8B119E457B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4431B94D-469D-4647-98D2-C8B119E457B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4431B94D-469D-4647-98D2-C8B119E457B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4431B94D-469D-4647-98D2-C8B119E457B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F56E44-E6CF-4E5D-A9E0-5D8204C21638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F56E44-E6CF-4E5D-A9E0-5D8204C21638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F56E44-E6CF-4E5D-A9E0-5D8204C21638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F56E44-E6CF-4E5D-A9E0-5D8204C21638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89DC82E-BA74-486B-9335-A1549E9421C0}
+	EndGlobalSection
+EndGlobal
